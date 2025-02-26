@@ -1,0 +1,238 @@
+2025-01-08 02:11:20,927 :INFO : test_women :getting all the tops name
+2025-01-08 02:11:20,945 :INFO : test_women :Blue Top
+2025-01-08 02:11:20,960 :INFO : test_women :Winter Top
+2025-01-08 02:11:20,978 :INFO : test_women :Summer White Top
+2025-01-08 02:11:20,995 :INFO : test_women :Madame Top For Women
+2025-01-08 02:11:21,006 :INFO : test_women :Fancy Green Top
+2025-01-08 02:11:21,020 :INFO : test_women :Lace Top For Women
+2025-01-08 02:11:23,278 :INFO : test_women :Getting description of selected top
+2025-01-08 02:11:23,279 :INFO : test_women :Lace Top For Women
+Women > Tops
+2025-01-08 02:11:23,293 :INFO : test_women :getting details of tops price in cart 
+2025-01-08 02:11:23,295 :INFO : test_women :Rs. 1400
+2025-01-08 02:15:19,225 :INFO : test_women :getting all the tops name
+2025-01-08 02:15:19,252 :INFO : test_women :Blue Top
+2025-01-08 02:15:19,270 :INFO : test_women :Men Tshirt
+2025-01-08 02:15:19,299 :INFO : test_women :Sleeveless Dress
+2025-01-08 02:15:19,313 :INFO : test_women :Stylish Dress
+2025-01-08 02:15:19,328 :INFO : test_women :Winter Top
+2025-01-08 02:15:19,349 :INFO : test_women :Summer White Top
+2025-01-08 02:15:19,365 :INFO : test_women :Madame Top For Women
+2025-01-08 02:15:19,379 :INFO : test_women :Fancy Green Top
+2025-01-08 02:15:19,391 :INFO : test_women :Sleeves Printed Top - White
+2025-01-08 02:15:19,411 :INFO : test_women :Half Sleeves Top Schiffli Detailing - Pink
+2025-01-08 02:15:19,429 :INFO : test_women :Frozen Tops For Kids
+2025-01-08 02:15:19,443 :INFO : test_women :Full Sleeves Top Cherry - Pink
+2025-01-08 02:15:19,458 :INFO : test_women :Printed Off Shoulder Top - White
+2025-01-08 02:15:19,475 :INFO : test_women :Sleeves Top and Short - Blue & Pink
+2025-01-08 02:15:19,487 :INFO : test_women :Little Girls Mr. Panda Shirt
+2025-01-08 02:15:19,505 :INFO : test_women :Sleeveless Unicorn Patch Gown - Pink
+2025-01-08 02:15:19,517 :INFO : test_women :Cotton Mull Embroidered Dress
+2025-01-08 02:15:19,529 :INFO : test_women :Blue Cotton Indie Mickey Dress
+2025-01-08 02:15:19,540 :INFO : test_women :Long Maxi Tulle Fancy Dress Up Outfits -Pink
+2025-01-08 02:15:19,552 :INFO : test_women :Sleeveless Unicorn Print Fit & Flare Net Dress - Multi
+2025-01-08 02:15:19,563 :INFO : test_women :Colour Blocked Shirt – Sky Blue
+2025-01-08 02:15:19,585 :INFO : test_women :Pure Cotton V-Neck T-Shirt
+2025-01-08 02:15:19,598 :INFO : test_women :Green Side Placket Detail T-Shirt
+2025-01-08 02:15:19,610 :INFO : test_women :Premium Polo T-Shirts
+2025-01-08 02:15:19,635 :INFO : test_women :Pure Cotton Neon Green Tshirt
+2025-01-08 02:15:19,649 :INFO : test_women :Soft Stretch Jeans
+2025-01-08 02:15:19,662 :INFO : test_women :Regular Fit Straight Jeans
+2025-01-08 02:15:19,676 :INFO : test_women :Grunt Blue Slim Fit Jeans
+2025-01-08 02:15:19,688 :INFO : test_women :Rose Pink Embroidered Maxi Dress
+2025-01-08 02:15:19,700 :INFO : test_women :Cotton Silk Hand Block Print Saree
+2025-01-08 02:15:19,712 :INFO : test_women :Rust Red Linen Saree
+2025-01-08 02:15:19,725 :INFO : test_women :Beautiful Peacock Blue Cotton Linen Saree
+2025-01-08 02:15:19,736 :INFO : test_women :Lace Top For Women
+2025-01-08 02:36:02,379 :INFO : test_women :getting all the tops name
+2025-01-08 02:36:02,443 :INFO : test_women :Blue Top
+2025-01-08 02:36:02,468 :INFO : test_women :Men Tshirt
+2025-01-08 02:36:02,487 :INFO : test_women :Sleeveless Dress
+2025-01-08 02:36:02,522 :INFO : test_women :Stylish Dress
+2025-01-08 02:36:02,548 :INFO : test_women :Winter Top
+2025-01-08 02:36:02,565 :INFO : test_women :Summer White Top
+2025-01-08 02:36:02,583 :INFO : test_women :Madame Top For Women
+2025-01-08 02:36:02,628 :INFO : test_women :Fancy Green Top
+2025-01-08 02:36:02,669 :INFO : test_women :Sleeves Printed Top - White
+2025-01-08 02:36:02,693 :INFO : test_women :Half Sleeves Top Schiffli Detailing - Pink
+2025-01-08 02:36:02,716 :INFO : test_women :Frozen Tops For Kids
+2025-01-08 02:36:02,740 :INFO : test_women :Full Sleeves Top Cherry - Pink
+2025-01-08 02:36:02,759 :INFO : test_women :Printed Off Shoulder Top - White
+2025-01-08 02:36:02,778 :INFO : test_women :Sleeves Top and Short - Blue & Pink
+2025-01-08 02:36:02,795 :INFO : test_women :Little Girls Mr. Panda Shirt
+2025-01-08 02:36:02,815 :INFO : test_women :Sleeveless Unicorn Patch Gown - Pink
+2025-01-08 02:36:02,833 :INFO : test_women :Cotton Mull Embroidered Dress
+2025-01-08 02:36:02,853 :INFO : test_women :Blue Cotton Indie Mickey Dress
+2025-01-08 02:36:02,871 :INFO : test_women :Long Maxi Tulle Fancy Dress Up Outfits -Pink
+2025-01-08 02:36:02,889 :INFO : test_women :Sleeveless Unicorn Print Fit & Flare Net Dress - Multi
+2025-01-08 02:36:02,906 :INFO : test_women :Colour Blocked Shirt – Sky Blue
+2025-01-08 02:36:02,924 :INFO : test_women :Pure Cotton V-Neck T-Shirt
+2025-01-08 02:36:02,945 :INFO : test_women :Green Side Placket Detail T-Shirt
+2025-01-08 02:36:02,961 :INFO : test_women :Premium Polo T-Shirts
+2025-01-08 02:36:02,980 :INFO : test_women :Pure Cotton Neon Green Tshirt
+2025-01-08 02:36:03,011 :INFO : test_women :Soft Stretch Jeans
+2025-01-08 02:36:03,179 :INFO : test_women :Regular Fit Straight Jeans
+2025-01-08 02:36:03,198 :INFO : test_women :Grunt Blue Slim Fit Jeans
+2025-01-08 02:36:03,218 :INFO : test_women :Rose Pink Embroidered Maxi Dress
+2025-01-08 02:36:03,242 :INFO : test_women :Cotton Silk Hand Block Print Saree
+2025-01-08 02:36:03,261 :INFO : test_women :Rust Red Linen Saree
+2025-01-08 02:36:03,293 :INFO : test_women :Beautiful Peacock Blue Cotton Linen Saree
+2025-01-08 02:36:03,316 :INFO : test_women :Lace Top For Women
+2025-01-08 02:50:38,714 :INFO : test_women :getting all the tops name
+2025-01-08 02:50:38,733 :INFO : test_women :Blue Top
+2025-01-08 02:50:38,744 :INFO : test_women :Winter Top
+2025-01-08 02:50:38,758 :INFO : test_women :Summer White Top
+2025-01-08 02:50:38,770 :INFO : test_women :Madame Top For Women
+2025-01-08 02:50:38,782 :INFO : test_women :Fancy Green Top
+2025-01-08 02:50:38,794 :INFO : test_women :Lace Top For Women
+2025-01-08 02:50:40,236 :INFO : test_women :Getting description of selected top
+2025-01-08 02:50:40,237 :INFO : test_women :Lace Top For Women
+Women > Tops
+2025-01-08 02:50:40,253 :INFO : test_women :getting details of tops price in cart 
+2025-01-08 02:50:40,253 :INFO : test_women :Rs. 1400
+2025-01-09 20:59:52,170 :INFO : test_women :getting all the tops name
+2025-01-09 21:01:29,615 :INFO : test_women :getting all the tops name
+2025-01-09 21:01:29,647 :INFO : test_women :Blue Top
+2025-01-09 21:01:29,672 :INFO : test_women :Winter Top
+2025-01-09 21:01:29,693 :INFO : test_women :Summer White Top
+2025-01-09 21:01:29,767 :INFO : test_women :Madame Top For Women
+2025-01-09 21:01:29,791 :INFO : test_women :Fancy Green Top
+2025-01-09 21:01:29,816 :INFO : test_women :Lace Top For Women
+2025-01-09 21:01:33,124 :INFO : test_women :Getting description of selected top
+2025-01-09 21:01:33,124 :INFO : test_women :Lace Top For Women
+Women > Tops
+2025-01-09 21:01:33,154 :INFO : test_women :getting details of tops price in cart 
+2025-01-09 21:01:33,154 :INFO : test_women :Rs. 1400
+2025-01-09 21:02:33,263 :INFO : test_women :getting all the tops name
+2025-02-25 20:55:42,116 :INFO : test_women :getting all the tops name
+2025-02-25 20:55:42,133 :INFO : test_women :Blue Top
+2025-02-25 20:55:42,145 :INFO : test_women :Winter Top
+2025-02-25 20:55:42,155 :INFO : test_women :Summer White Top
+2025-02-25 20:55:42,165 :INFO : test_women :Madame Top For Women
+2025-02-25 20:55:42,176 :INFO : test_women :Fancy Green Top
+2025-02-25 20:55:42,186 :INFO : test_women :Lace Top For Women
+2025-02-25 20:55:44,847 :INFO : test_women :Getting description of selected top
+2025-02-25 20:55:44,847 :INFO : test_women :Lace Top For Women
+Women > Tops
+2025-02-25 20:55:44,871 :INFO : test_women :getting details of tops price in cart 
+2025-02-25 20:55:44,873 :INFO : test_women :Rs. 1400
+2025-02-25 21:07:48,749 :INFO : test_women :getting all the tops name
+2025-02-25 21:07:48,766 :INFO : test_women :Blue Top
+2025-02-25 21:07:48,777 :INFO : test_women :Winter Top
+2025-02-25 21:07:48,789 :INFO : test_women :Summer White Top
+2025-02-25 21:07:48,800 :INFO : test_women :Madame Top For Women
+2025-02-25 21:07:48,812 :INFO : test_women :Fancy Green Top
+2025-02-25 21:07:48,821 :INFO : test_women :Lace Top For Women
+2025-02-25 21:07:53,547 :INFO : test_women :Getting description of selected top
+2025-02-25 21:07:53,547 :INFO : test_women :Lace Top For Women
+Women > Tops
+2025-02-25 21:07:53,560 :INFO : test_women :getting details of tops price in cart 
+2025-02-25 21:07:53,560 :INFO : test_women :Rs. 1400
+2025-02-25 21:10:03,357 :INFO : test_women :getting all the tops name
+2025-02-25 21:10:03,375 :INFO : test_women :Blue Top
+2025-02-25 21:10:03,387 :INFO : test_women :Winter Top
+2025-02-25 21:10:03,400 :INFO : test_women :Summer White Top
+2025-02-25 21:10:03,412 :INFO : test_women :Madame Top For Women
+2025-02-25 21:10:03,425 :INFO : test_women :Fancy Green Top
+2025-02-25 21:10:03,436 :INFO : test_women :Lace Top For Women
+2025-02-25 21:10:05,971 :INFO : test_women :Getting description of selected top
+2025-02-25 21:10:05,971 :INFO : test_women :Lace Top For Women
+Women > Tops
+2025-02-25 21:10:05,985 :INFO : test_women :getting details of tops price in cart 
+2025-02-25 21:10:05,985 :INFO : test_women :Rs. 1400
+2025-02-25 21:32:04,585 :INFO : test_women :getting all the tops name
+2025-02-25 21:32:04,603 :INFO : test_women :Blue Top
+2025-02-25 21:32:04,614 :INFO : test_women :Winter Top
+2025-02-25 21:32:04,624 :INFO : test_women :Summer White Top
+2025-02-25 21:32:04,634 :INFO : test_women :Madame Top For Women
+2025-02-25 21:32:04,644 :INFO : test_women :Fancy Green Top
+2025-02-25 21:32:04,655 :INFO : test_women :Lace Top For Women
+2025-02-25 21:32:06,743 :INFO : test_women :Getting description of selected top
+2025-02-25 21:32:06,743 :INFO : test_women :Lace Top For Women
+Women > Tops
+2025-02-25 21:32:06,756 :INFO : test_women :getting details of tops price in cart 
+2025-02-25 21:32:06,756 :INFO : test_women :Rs. 1400
+2025-02-25 21:40:31,992 :INFO : test_women :getting all the tops name
+2025-02-25 21:40:32,024 :INFO : test_women :Blue Top
+2025-02-25 21:40:32,040 :INFO : test_women :Winter Top
+2025-02-25 21:40:32,056 :INFO : test_women :Summer White Top
+2025-02-25 21:40:32,070 :INFO : test_women :Madame Top For Women
+2025-02-25 21:40:32,132 :INFO : test_women :Fancy Green Top
+2025-02-25 21:40:32,154 :INFO : test_women :Lace Top For Women
+2025-02-25 21:40:34,284 :INFO : test_women :Getting description of selected top
+2025-02-25 21:40:34,284 :INFO : test_women :Blue Top
+Women > Tops
+2025-02-25 21:40:34,298 :INFO : test_women :getting details of tops price in cart 
+2025-02-25 21:40:34,298 :INFO : test_women :Rs. 500
+2025-02-25 21:42:34,429 :INFO : test_women :getting all the tops name
+2025-02-25 21:42:34,451 :INFO : test_women :Blue Top
+2025-02-25 21:42:34,465 :INFO : test_women :Winter Top
+2025-02-25 21:42:34,484 :INFO : test_women :Summer White Top
+2025-02-25 21:42:34,497 :INFO : test_women :Madame Top For Women
+2025-02-25 21:42:34,510 :INFO : test_women :Fancy Green Top
+2025-02-25 21:42:34,523 :INFO : test_women :Lace Top For Women
+2025-02-25 21:42:36,553 :INFO : test_women :Getting description of selected top
+2025-02-25 21:42:36,554 :INFO : test_women :Blue Top
+Women > Tops
+2025-02-25 21:42:36,567 :INFO : test_women :getting details of tops price in cart 
+2025-02-25 21:42:36,567 :INFO : test_women :Rs. 500
+2025-02-25 21:47:55,644 :INFO : test_women :getting all the tops name
+2025-02-25 21:47:55,662 :INFO : test_women :Blue Top
+2025-02-25 21:47:55,674 :INFO : test_women :Winter Top
+2025-02-25 21:47:55,686 :INFO : test_women :Summer White Top
+2025-02-25 21:47:55,697 :INFO : test_women :Madame Top For Women
+2025-02-25 21:47:55,707 :INFO : test_women :Fancy Green Top
+2025-02-25 21:47:55,718 :INFO : test_women :Lace Top For Women
+2025-02-25 21:47:57,876 :INFO : test_women :Getting description of selected top
+2025-02-25 21:47:57,876 :INFO : test_women :Blue Top
+Women > Tops
+2025-02-25 21:47:57,890 :INFO : test_women :getting details of tops price in cart 
+2025-02-25 21:47:57,890 :INFO : test_women :Rs. 500
+2025-02-25 21:56:18,768 :INFO : test_women :getting all the tops name
+2025-02-25 21:56:18,793 :INFO : test_women :Blue Top
+2025-02-25 21:56:18,806 :INFO : test_women :Winter Top
+2025-02-25 21:56:18,818 :INFO : test_women :Summer White Top
+2025-02-25 21:56:18,830 :INFO : test_women :Madame Top For Women
+2025-02-25 21:56:18,841 :INFO : test_women :Fancy Green Top
+2025-02-25 21:56:18,852 :INFO : test_women :Lace Top For Women
+2025-02-25 21:56:20,930 :INFO : test_women :Getting description of selected top
+2025-02-25 21:56:20,930 :INFO : test_women :Blue Top
+Women > Tops
+2025-02-25 21:56:20,945 :INFO : test_women :getting details of tops price in cart 
+2025-02-25 21:56:20,945 :INFO : test_women :Rs. 500
+2025-02-25 22:01:57,931 :INFO : test_women :getting all the tops name
+2025-02-25 22:01:57,950 :INFO : test_women :Blue Top
+2025-02-25 22:01:57,963 :INFO : test_women :Winter Top
+2025-02-25 22:01:57,976 :INFO : test_women :Summer White Top
+2025-02-25 22:01:57,989 :INFO : test_women :Madame Top For Women
+2025-02-25 22:01:58,001 :INFO : test_women :Fancy Green Top
+2025-02-25 22:01:58,014 :INFO : test_women :Lace Top For Women
+2025-02-25 22:02:00,091 :INFO : test_women :Getting description of selected top
+2025-02-25 22:02:00,091 :INFO : test_women :Blue Top
+Women > Tops
+2025-02-25 22:02:00,104 :INFO : test_women :getting details of tops price in cart 
+2025-02-25 22:02:00,104 :INFO : test_women :Rs. 500
+2025-02-26 13:46:28,181 :INFO : test_women :getting all the tops name
+2025-02-26 13:46:28,217 :INFO : test_women :Blue Top
+2025-02-26 13:46:28,241 :INFO : test_women :Winter Top
+2025-02-26 13:46:28,259 :INFO : test_women :Summer White Top
+2025-02-26 13:46:28,329 :INFO : test_women :Madame Top For Women
+2025-02-26 13:46:28,350 :INFO : test_women :Fancy Green Top
+2025-02-26 13:46:28,456 :INFO : test_women :Lace Top For Women
+2025-02-26 13:46:31,186 :INFO : test_women :Getting description of selected top
+2025-02-26 13:46:31,186 :INFO : test_women :Lace Top For Women
+Women > Tops
+2025-02-26 13:46:31,205 :INFO : test_women :getting details of tops price in cart 
+2025-02-26 13:46:31,205 :INFO : test_women :Rs. 1400
+2025-02-26 13:46:54,794 :INFO : test_women :getting all the tops name
+2025-02-26 13:46:54,817 :INFO : test_women :Blue Top
+2025-02-26 13:46:54,833 :INFO : test_women :Winter Top
+2025-02-26 13:46:54,847 :INFO : test_women :Summer White Top
+2025-02-26 13:46:54,860 :INFO : test_women :Madame Top For Women
+2025-02-26 13:46:54,875 :INFO : test_women :Fancy Green Top
+2025-02-26 13:46:54,922 :INFO : test_women :Lace Top For Women
+2025-02-26 13:46:56,909 :INFO : test_women :Getting description of selected top
+2025-02-26 13:46:56,909 :INFO : test_women :Lace Top For Women
+Women > Tops
+2025-02-26 13:46:56,925 :INFO : test_women :getting details of tops price in cart 
+2025-02-26 13:46:56,925 :INFO : test_women :Rs. 2800
