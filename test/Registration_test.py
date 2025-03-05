@@ -12,7 +12,7 @@ from selenium.webdriver.common.by import By
 
 from TestData.registrationData import registrationdata
 from pageobjects import NewUserRegistration
-from pageobjects.page import driver
+from test.conftest import driver
 from utilities.Baseclass import BaseClass
 from pageobjects.NewUserRegistration import NewRegistration
 
